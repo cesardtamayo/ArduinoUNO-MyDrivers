@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1645207234 source:c:\arduino\timer_driver\fuse.c
+	<avr/io.h>
+
+1645128572 source:c:\arduino\uart_driver\uart.c
+	"uart.h"
+
+1645128553 c:\arduino\uart_driver\uart.h
+	<avr/io.h>
+	<stdio.h>
+	<avr/interrupt.h>
+
+1645561369 source:c:\arduino\timer_driver\timer_driver.c
+	"timer_driver.h"
+
+1645560119 source:c:\arduino\timer_driver\uart.c
+	"uart.h"
+
+1645560098 c:\arduino\timer_driver\uart.h
+	<avr/io.h>
+	<stdio.h>
+	<avr/interrupt.h>
+
+1645629350 source:c:\arduino\timer_driver\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"uart.h"
+	<util/delay.h>
+
+1645209508 c:\arduino\timer_driver\timer_driver.h
+

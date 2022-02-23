@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645631070 source:c:\arduino\pwm\fuse.c
+	<avr/io.h>
+
+1645639996 source:c:\arduino\pwm\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1644960581 source:c:\arduino\uart_driver\fuse.c
+	<avr/io.h>
+
+1645560108 source:c:\arduino\uart_driver\main.c
+	"uart.h"
+	<util/delay.h>
+
+1645560098 c:\arduino\uart_driver\uart.h
+	<avr/io.h>
+	<stdio.h>
+	<avr/interrupt.h>
+
+1645128572 source:c:\arduino\uart_driver\uart.c
+	"uart.h"
+

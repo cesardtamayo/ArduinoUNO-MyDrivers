@@ -1,0 +1,678 @@
+Archive member included because of file (symbol)
+
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              obj\Debug\main.o (__ltsf2)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              obj\Debug\main.o (__fixunssfsi)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              obj\Debug\main.o (__gtsf2)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              obj\Debug\main.o (__mulsf3)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              obj\Debug\main.o (__do_copy_data)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              obj\Debug\main.o (__do_clear_bss)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              obj\Debug\main.o (strcmp)
+c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              obj\Debug\uart.o (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+rxBuffer            0x80              obj\Debug\uart.o
+txBuffer            0x80              obj\Debug\uart.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 obj\Debug\fuse.o
+ .data          0x00000000        0x0 obj\Debug\fuse.o
+ .bss           0x00000000        0x0 obj\Debug\fuse.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\fuse.o
+ .debug_info    0x00000000        0x0 obj\Debug\fuse.o
+ .debug_line    0x00000000        0x0 obj\Debug\fuse.o
+ .debug_pubnames
+                0x00000000        0x0 obj\Debug\fuse.o
+ .debug_str     0x00000000        0x0 obj\Debug\fuse.o
+ .text          0x00000000        0x0 obj\Debug\main.o
+ .bss           0x00000000        0x0 obj\Debug\main.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\main.o
+ .debug_info    0x00000000        0x0 obj\Debug\main.o
+ .debug_line    0x00000000        0x0 obj\Debug\main.o
+ .debug_frame   0x00000000        0x0 obj\Debug\main.o
+ .debug_pubnames
+                0x00000000        0x0 obj\Debug\main.o
+ .debug_aranges
+                0x00000000        0x0 obj\Debug\main.o
+ .debug_ranges  0x00000000        0x0 obj\Debug\main.o
+ .debug_str     0x00000000        0x0 obj\Debug\main.o
+ .text          0x00000000        0x0 obj\Debug\timer_driver.o
+ .data          0x00000000        0x0 obj\Debug\timer_driver.o
+ .bss           0x00000000        0x0 obj\Debug\timer_driver.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\timer_driver.o
+ .debug_info    0x00000000        0x0 obj\Debug\timer_driver.o
+ .debug_line    0x00000000        0x0 obj\Debug\timer_driver.o
+ .text          0x00000000        0x0 obj\Debug\uart.o
+ .data          0x00000000        0x0 obj\Debug\uart.o
+ .bss           0x00000000        0x0 obj\Debug\uart.o
+ .debug_abbrev  0x00000000        0x0 obj\Debug\uart.o
+ .debug_info    0x00000000        0x0 obj\Debug\uart.o
+ .debug_line    0x00000000        0x0 obj\Debug\uart.o
+ .bss.rxReadPos
+                0x00000000        0x0 obj\Debug\uart.o
+ .bss.rxWritePos
+                0x00000000        0x0 obj\Debug\uart.o
+ .text.UART_Read
+                0x00000000        0x0 obj\Debug\uart.o
+ .text.UART_Write
+                0x00000000        0x0 obj\Debug\uart.o
+ .text.USAR_RX_vect
+                0x00000000        0x0 obj\Debug\uart.o
+ .text.getChar  0x00000000        0x0 obj\Debug\uart.o
+ .text.peekChar
+                0x00000000        0x0 obj\Debug\uart.o
+ .debug_frame   0x00000000        0x0 obj\Debug\uart.o
+ .debug_pubnames
+                0x00000000        0x0 obj\Debug\uart.o
+ .debug_aranges
+                0x00000000        0x0 obj\Debug\uart.o
+ .debug_ranges  0x00000000        0x0 obj\Debug\uart.o
+ .debug_str     0x00000000        0x0 obj\Debug\uart.o
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x00000000        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD obj\Debug\fuse.o
+LOAD obj\Debug\main.o
+LOAD obj\Debug\timer_driver.o
+LOAD obj\Debug\uart.o
+LOAD c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x8be
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+                0x00000068                __ctors_end = .
+                0x00000068                __dtors_start = .
+ *(.dtors)
+                0x00000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000068        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000068        0xc c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000074       0x16 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000074                __do_copy_data
+ .init4         0x0000008a       0x10 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x0000008a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000009a        0x8 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a2        0x4 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x000000a2                __vector_22
+                0x000000a2                __vector_1
+                0x000000a2                __vector_24
+                0x000000a2                __vector_12
+                0x000000a2                __bad_interrupt
+                0x000000a2                __vector_6
+                0x000000a2                __vector_3
+                0x000000a2                __vector_23
+                0x000000a2                __vector_25
+                0x000000a2                __vector_11
+                0x000000a2                __vector_13
+                0x000000a2                __vector_17
+                0x000000a2                __vector_19
+                0x000000a2                __vector_7
+                0x000000a2                __vector_5
+                0x000000a2                __vector_4
+                0x000000a2                __vector_9
+                0x000000a2                __vector_2
+                0x000000a2                __vector_21
+                0x000000a2                __vector_15
+                0x000000a2                __vector_8
+                0x000000a2                __vector_10
+                0x000000a2                __vector_16
+                0x000000a2                __vector_18
+ .text          0x000000a6       0x12 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x000000a6                strcmp
+ .text          0x000000b8       0x12 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x000000b8                strlen
+                0x000000ca                . = ALIGN (0x2)
+ *(.text.*)
+ .text.new_avr_timer_8b
+                0x000000ca       0xee obj\Debug\main.o
+                0x000000ca                new_avr_timer_8b
+ .text.__vector_14
+                0x000001b8       0x70 obj\Debug\main.o
+                0x000001b8                __vector_14
+ .text.avr_timer_8b_Init
+                0x00000228      0x154 obj\Debug\main.o
+                0x00000228                avr_timer_8b_Init
+ .text.main     0x0000037c      0x1c0 obj\Debug\main.o
+                0x0000037c                main
+ .text.UART_Init
+                0x0000053c       0x4a obj\Debug\uart.o
+                0x0000053c                UART_Init
+ .text.appendSerialTx
+                0x00000586       0x3c obj\Debug\uart.o
+                0x00000586                appendSerialTx
+ .text.__vector_20
+                0x000005c2       0x70 obj\Debug\uart.o
+                0x000005c2                __vector_20
+ .text.serialWrite
+                0x00000632       0x70 obj\Debug\uart.o
+                0x00000632                serialWrite
+ .text.fplib    0x000006a2        0x8 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000006a2                __lesf2
+                0x000006a2                __nesf2
+                0x000006a2                __eqsf2
+                0x000006a2                __cmpsf2
+                0x000006a2                __ltsf2
+ .text.fplib    0x000006aa       0x58 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000006aa                __fixunssfsi
+ .text.fplib    0x00000702       0x48 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000702                __fp_cmp
+ .text.fplib    0x0000074a       0x44 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000074a                __fp_split3
+                0x0000075a                __fp_splitA
+ .text.fplib    0x0000078e        0xe c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000078e                __fp_zero
+                0x00000790                __fp_szero
+ .text.fplib    0x0000079c        0x8 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000079c                __gtsf2
+                0x0000079c                __gesf2
+ .text.fplib    0x000007a4        0x4 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000007a4                __mulsf3
+ .text.fplib    0x000007a8       0xc2 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000007c0                __mulsf3_pse
+                0x000007bc                __mulsf3x
+ .text.fplib    0x0000086a        0xc c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000086a                __fp_inf
+ .text.fplib    0x00000876        0x6 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000876                __fp_nan
+ .text.fplib    0x0000087c        0xe c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000087c                __fp_pscA
+ .text.fplib    0x0000088a        0xe c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000088a                __fp_pscB
+ .text.fplib    0x00000898       0x22 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000898                __fp_round
+                0x000008ba                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000008ba        0x0 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000008ba                exit
+                0x000008ba                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000008ba        0x4 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000008be                _etext = .
+
+.data           0x00800100      0x104 load address 0x000008be
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100      0x103 obj\Debug\main.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800204                . = ALIGN (0x2)
+ *fill*         0x00800203        0x1 00
+                0x00800204                _edata = .
+                0x00800204                PROVIDE (__data_end, .)
+
+.bss            0x00800204      0x104
+                0x00800204                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.extraTime
+                0x00800204        0x2 obj\Debug\main.o
+                0x00800204                extraTime
+ .bss.txReadPos
+                0x00800206        0x1 obj\Debug\uart.o
+                0x00800206                txReadPos
+ .bss.txWritePos
+                0x00800207        0x1 obj\Debug\uart.o
+                0x00800207                txWritePos
+ *(COMMON)
+ COMMON         0x00800208      0x100 obj\Debug\uart.o
+                0x00800208                rxBuffer
+                0x00800288                txBuffer
+                0x00800308                PROVIDE (__bss_end, .)
+                0x000008be                __data_load_start = LOADADDR (.data)
+                0x000009c2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800308        0x0
+                0x00800308                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800308                PROVIDE (__noinit_end, .)
+                0x00800308                _end = .
+                0x00800308                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse           0x00820000        0x3
+ *(.fuse)
+ .fuse          0x00820000        0x3 obj\Debug\fuse.o
+                0x00820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(bin\Debug\timer_driver.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges
+
+Cross Reference Table
+
+Symbol                                            File
+UART_Init                                         obj\Debug\uart.o
+                                                  obj\Debug\main.o
+UART_Read                                         obj\Debug\uart.o
+UART_Write                                        obj\Debug\uart.o
+USAR_RX_vect                                      obj\Debug\uart.o
+__bad_interrupt                                   c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__cmpsf2                                          c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__data_end                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__do_clear_bss                                    c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  obj\Debug\uart.o
+                                                  obj\Debug\main.o
+__do_copy_data                                    c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  obj\Debug\main.o
+__eqsf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fixunssfsi                                      c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  obj\Debug\main.o
+__fp_cmp                                          c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_nan                                          c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscA                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_pscB                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_round                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__fp_split3                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_splitA                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__fp_zero                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fuse                                            obj\Debug\fuse.o
+__gesf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  obj\Debug\main.o
+__heap_end                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__init                                            c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ltsf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  obj\Debug\main.o
+__mulsf3                                          c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  obj\Debug\main.o
+__mulsf3_pse                                      c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__nesf2                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__stack                                           c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_1                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       obj\Debug\main.o
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       obj\Debug\uart.o
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+appendSerialTx                                    obj\Debug\uart.o
+avr_timer_8b_Init                                 obj\Debug\main.o
+exit                                              c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+extraTime                                         obj\Debug\main.o
+getChar                                           obj\Debug\uart.o
+main                                              obj\Debug\main.o
+                                                  c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+new_avr_timer_8b                                  obj\Debug\main.o
+peekChar                                          obj\Debug\uart.o
+rxBuffer                                          obj\Debug\uart.o
+rxReadPos                                         obj\Debug\uart.o
+rxWritePos                                        obj\Debug\uart.o
+serialWrite                                       obj\Debug\uart.o
+                                                  obj\Debug\main.o
+strcmp                                            c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                                                  obj\Debug\main.o
+strlen                                            c:/users/ctamayo/downloads/codeblocks-arduino-20140626/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                                                  obj\Debug\uart.o
+txBuffer                                          obj\Debug\uart.o
+txReadPos                                         obj\Debug\uart.o
+txWritePos                                        obj\Debug\uart.o
